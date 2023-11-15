@@ -232,9 +232,9 @@ h2 {
   margin-bottom: 1em;
 
 }
-#Contact_form .contact_row2{
-  padding-left: 13em;
-}
+/* #Contact_form .contact_row2{
+  padding-left: 8em;
+} */
 .contact .map_view {
   width: 100%;
   border: 0.2em solid rgb(48, 46, 46);
